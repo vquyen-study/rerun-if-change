@@ -1,0 +1,10 @@
+# Cargo.toml
+
+[package]
+name = "hello-from-generated-code"
+version = "0.1.0"
+edition = "2021"
+description = "This is a project with testing publish a crate into crates.io site."
+license = "MIT"
+homepage = "N/A"
+repository = "https://github.com/vquyen.study/cargo/rerun-if-changed"
